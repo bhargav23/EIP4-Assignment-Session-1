@@ -5,11 +5,10 @@ print(score)
 # Definitions
 
 ## Convolution
-A convolution is a linear operation on neural network. The convolution neural network uses the convolution as dot product in the layers.  
+It is a linear operation on neural network. The CNN uses the convolution as dot product in the layers.  
 
 ## Filters/Kernels
-A Kernel is a multidimetional array, which consist of parameters that are used by the learning algorithms to extrct the features of an image.
-
+It is a multidimensional array, which consist of parameters, used by  learning algorithms to extract the features of an image.
 ## Epochs
 Training the model with entire training data once is called as epoch.
 
