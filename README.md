@@ -1,5 +1,7 @@
 # EIP4-Assignment-Session-1
-Score 99
+
+print(score)
+[0.03001958887830524, 0.9922]
 # Definitions
 
 ## Convolution
