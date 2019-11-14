@@ -12,11 +12,13 @@ A convolution is a linear operation on neural network. The convolution neural ne
 A Kernel is a multidimetional array, which consist of parameters that are used by the learning algorithms to extrct the features of an image.
 
 ## Epochs
-Training the model with entire training data once is called as epoch
+Training the model with entire training data once is called as epoch.
 
 ## 1x1 Convolution
+The 1x1 convolution is used to extract the important features an reduces the dimensionality.
 
 ## 3x3 Convolution
+
 
 ## Feature Maps
 
