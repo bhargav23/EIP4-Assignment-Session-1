@@ -1,13 +1,17 @@
 # EIP4-Assignment-Session-1
 Score 99
 # Definitions
-Convolution
+
+# Convolution
+
 A convolution is a linear operation on neural network. The convolution neural network uses the convolution as a matrix multiplication in the layers.  
-Filters/Kernels
+
+## Filters/Kernels
 A Kernel is a multidimetional array, which consist of parameters that are used by the learning algorithms to extrct the features of an image.
 
-Epochs
+## Epochs
 Training the model with entire training data once is called as epoch
+
 1x1 Convolution
 
 3x3 Convolution
