@@ -25,4 +25,4 @@ A feature map is the output of a convolution function, which consists different 
 An Activation Function is used decide activate or deactivate the neurons in Neural networks. 
 
 ## Receptive Field
-The region which is recived in feature map with the application of filters. 
+The region which is received in feature map with the application of filters. 
